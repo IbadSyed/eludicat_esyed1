@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="CodeIgniter-3.0.0/application/config"/>
+	<buildpathentry kind="src" path="CodeIgniter-3.0.0/application/controllers"/>
+	<buildpathentry kind="src" path="CodeIgniter-3.0.0/application/models"/>
+	<buildpathentry kind="src" path="CodeIgniter-3.0.0/application/views"/>
+	<buildpathentry kind="src" path="CodeIgniter-3.0.0/system/core"/>
+	<buildpathentry kind="src" path="CodeIgniter-3.0.0/system/database"/>
+	<buildpathentry kind="src" path="CodeIgniter-3.0.0/system/helpers"/>
+	<buildpathentry kind="src" path="CodeIgniter-3.0.0/system/language/english"/>
+	<buildpathentry kind="src" path="CodeIgniter-3.0.0/system/libraries"/>
+	<buildpathentry kind="src" path="public_html"/>
+	<buildpathentry kind="lib" path="CodeIgniter-3.0.0/user_guide/_downloads/ELDocs.tmbundle.zip"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
